@@ -13,8 +13,8 @@ cd client
 npm install
 ```
 
-### Add info in .env file
-
+### Create .env file and add info in .env file from .env.example
+ 
 ## Running the server & client side
 
 ```bash
